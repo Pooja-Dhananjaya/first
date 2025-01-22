@@ -1,0 +1,8 @@
+this the file
+using to for the checking
+
+
+which means using git add-i
+i wnat to know
+
+how to use patch
